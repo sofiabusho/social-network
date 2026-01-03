@@ -1,4 +1,4 @@
-Backend Division (4 Parrts)
+Backend Division (4 Parts)
 **Sofia** Part 1: Database & Authentication Foundation
 Responsibility: Database setup, user authentication, and session management
 
